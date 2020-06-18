@@ -5,6 +5,6 @@ KICAD/
 !KICAD/*.sch
 !KICAD/*.kicad_pcb
 !KICAD/*.pro
-!KICAD/Arduino.pretty
-!KICAD/game_device_footprint_lib.pretty
-!KICAD/MnM_logo_lib
+!KICAD/Arduino.pretty/
+!KICAD/game_device_footprint_lib.pretty/
+!KICAD/MnM_logo_lib/
