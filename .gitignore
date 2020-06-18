@@ -1,5 +1,5 @@
 # ignores most files in KICAD
-KICAD/
+KICAD/*
 
 # allowed files in KICAD
 !KICAD/*.sch
